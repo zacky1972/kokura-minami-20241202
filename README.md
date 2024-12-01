@@ -1,6 +1,6 @@
 # 2021202 小倉南高校お迎え企画
 
-1. [最初のアンケート]()
+1. [最初のアンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=dqpZ2qrg50-_EXI97pjWdhNoVLKGiUpEttIPzDun-NtUQ1paQlhPWkpKMzlXR09VUTFNNUxONVNNVS4u)
 2. 気象衛星ひまわり
 3. 理科・物理の復習
 4. [Google Earth タイムラプス](https://earth.google.com/web/@39.02775263,141.6254991,94a,49777.36235077d,35y,7h,0.00001347t,0r/data=CjISMBIgNTQ0MGExNzMxYzI1MTFlYTk0NDM4YmI2ODk0NDUyOTciDG1haW5Ob1JhbmRvbQ?hl=ja)
@@ -12,4 +12,4 @@
 10. [耕作放棄地の早期発見及び把握で農業課題の解決に挑む](https://sorabatake.jp/20806/)
 11. [衛星データを利用して理想の家探しはできるのか!?](https://sorabatake.jp/15905/)
 12. **AI衛星・スマホみたいにアップデートできる衛星**
-13. [最後のアンケート]()
+13. [最後のアンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=dqpZ2qrg50-_EXI97pjWdhNoVLKGiUpEttIPzDun-NtUNzZQRERJUkVBSVJCNjBZTFlNS0ExN0VLTy4u)
